@@ -1,0 +1,6 @@
+variables: Es la opcion que tenemos dentro de java scrip para almacenar el valor de algo , es decir guardarlo para poder verlo y utilizarlo mas tarde. Para ello utilizamos la palabra clave var y alli guardamos ese valor que necesitemos utilizar mas adelante. 
+string: es un tipo de dato utilizado en Java scrip, hace referencia a una palabra o linea de letras o caracteres y siempre se identificara porque debe estar entre comillas , ya sean dobles o simples.
+Funciones :  son aquellas que nos permiten darle una instruccion en java escrip para poder hacer algo con las variables que ya se hallan definido. 
+Argumentos : son aquellas palabras o variables que le dan una cierta instruccion especifica a la funcion para que realice determinada tarea o accion. 
+return: Es la manera en la que los datos de un resultado de una funcion devuelven un dato o resultado.
+Declaraciones IF: es una declaracion que nos permite comparar entre dos valores para determinar si son verdaderos o falsos, y de acuerdo a la respuesta determinar una accion .
